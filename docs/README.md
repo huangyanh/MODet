@@ -92,12 +92,6 @@ Choose a hosting provider and deployment method for your MkDocs documentation:
     mkdocs gh-deploy
     ```
 
-## 💡 Contribute
-
-We cherish the community's input as it drives Ultralytics open-source initiatives. Dive into the [Contributing Guide](https://docs.ultralytics.com/help/contributing) and share your thoughts via our [Survey](https://ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). A heartfelt thank you 🙏 to each contributor!
-
-![Ultralytics open-source contributors](https://github.com/ultralytics/assets/raw/main/im/image-contributors.png)
-
 ## 📜 License
 
 Ultralytics Docs presents two licensing options:
@@ -107,4 +101,4 @@ Ultralytics Docs presents two licensing options:
 
 ## ✉️ Contact
 
-For the dataset (InlandVessel/MS2ShipOBB), please contact [617719299@qq.com](mailto:617719299@qq.com).
+For the datasets (InlandVessel/MS2ShipOBB), please contact [617719299@qq.com](mailto:617719299@qq.com).
