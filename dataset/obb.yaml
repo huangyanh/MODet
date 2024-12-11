@@ -1,0 +1,10 @@
+train: G:\\zuomian\\MODet\\dataset\\train_obb.txt #images   # train images (relative to 'path')
+val: G:\\zuomian\\MODet\\dataset\\val_obb.txt #images  # val images (relative to 'path')
+test: G:\\zuomian\\MODet\\dataset\\test_obb.txt  #images # test images (optional)
+
+names:
+  0: vessel
+
+
+# Download script/URL (optional)
+# download: https://ultralytics.com/assets/coco128.zip
