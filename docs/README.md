@@ -10,13 +10,13 @@ To install the ultralytics package in developer mode, ensure you have Git and Py
 1. Clone the ultralytics repository to your local machine using Git:
 
     ```bash
-    git clone https://github.com/ultralytics/ultralytics.git
+    git clone https://github.com/huangyanh/MODet.git
     ```
 
 2. Navigate to the cloned repository's root directory:
 
     ```bash
-    cd ultralytics
+    cd MODet
     ```
 
 3. Install the package in developer mode using pip (or pip3 for Python 3):
